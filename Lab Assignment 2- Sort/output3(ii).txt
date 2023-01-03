@@ -1,0 +1,3 @@
+Kth element: 9
+Kth element: 1
+Kth element: 3
