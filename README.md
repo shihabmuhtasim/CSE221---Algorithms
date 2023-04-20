@@ -1,4 +1,11 @@
 # CSE221 - Algorithms
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/CSE221---Algorithms?color=f5f5dc) 
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/CSE221---Algorithms?color=f5f5dc) 
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/CSE221---Algorithms?color=f5f5dc) 
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/CSE221---Algorithms?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/CSE221---Algorithms?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/CSE221---Algorithms?style=social)
+
 
 This repository contains code related to the CSE221 - Algorithms course, which covers various algorithms and their implementations in programming languages. 
 
